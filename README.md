@@ -137,6 +137,6 @@ const server = http.createServer((req, res) => {
 
 In this exercise you learnt about using the Node HTTP module to implement a HTTP server.
 
-![image](https://user-images.githubusercontent.com/99037494/189488996-59403417-99dd-4f28-8c35-f67bb760e1f4.png) 
+![image](https://user-images.githubusercontent.com/99037494/189489197-31078214-213a-486b-991e-cb2c77f0020f.png)
 
 ## Thanks and follow me for new update.
